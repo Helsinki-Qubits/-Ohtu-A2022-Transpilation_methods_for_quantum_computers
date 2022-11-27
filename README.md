@@ -18,15 +18,15 @@ Goal of the project is to create a working code based on the research of Arianne
 
 {more tobe added while project is going on}
 
-## Definition of Done:
-  - Code works as designed
-  - Tests go through
-  - Code test coverage at least 80%
-  - Pull request has been done and accepted, before merging
-  - Code has been validated
-  - Code tested with Tox
-  - The code is fomated in Black and Pylint standard
-  - The code has been tested with Black and Pylint
+  ## Definition of Done:
+    - Code works as designed
+    - Tests go through
+    - Code test coverage at least 80%
+    - Pull request has been done and accepted, before merging
+    - Code has been validated
+    - Code tested with Tox
+    - The code is fomated in Black and Pylint standard
+    - The code has been tested with Black and Pylint
   
   ### User DoD:
     - Code has is accepted with DOD
@@ -38,9 +38,11 @@ The project is executed by using scrum -methods. In such, the time has been devi
 
 Group keeps from two to three daily meetings in a week.
 
-Group members haven't got much of an experience on operating projects with using scrum methods. Group works in english.
+Group members haven't got much of an experience on operating projects with using scrum methods. 
+
+Group works in english.
 
 
 ### Implementing code:
 
-Group decided to work on seperate branches, and merging those with main after the code has been validated.
+Group decided to work on seperate branches, and merging those with main after the code has been validated. In the beginning of the project, group decided there should be at least three members who has reviewed the pull request, but later decided to lower it into two. Also client was added to be able to see the requests as well, and be able to give comments on the code to make process go forward more easier.

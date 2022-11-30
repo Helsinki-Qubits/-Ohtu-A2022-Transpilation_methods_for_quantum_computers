@@ -2,21 +2,29 @@
 
 ## About the project:
  
-Goal of the project is to create a working code based on the research of Arianne Meijer-van de Griend. The code is implemented after finish to IBM's [Qiskit Library](https://github.com/Qiskit).
+The goal of the project is to create a transpiler for quantum circuits based on the research of Arianne Meijer-van de Griend. The aim is to merge the finished project to IBM's [Qiskit Library](https://github.com/Qiskit).
+
+### PermRowColSynthesis Transpiler
+
+The client's research is focused on the efficient compilation methods of qubits in quantum circuits. The algorithm PermRowCol that we implemented in this project reroutes CNOT gates in a quantum circuit.
+
+#### Research paper
+
+[Meijer-van de Griend, A & Li, S M 2022, 'Dynamic Qubit Allocation and Routing for Constrained Topologies by CNOT Circuit Re-synthesis'](https://arxiv.org/pdf/2205.00724.pdf)
+
+### Links:
 
 [Groups fork/woking GitHub repository](https://github.com/Helsinki-Qubits/qiskit-terra)
 
-[Produckt Backlog](https://helsinkifi-my.sharepoint.com/:x:/r/personal/millakel_ad_helsinki_fi/_layouts/15/Doc.aspx?sourcedoc=%7BC58FB878-9F7B-4334-93D8-647B7DFE3E74%7D&file=Product%20backlog.xlsx&action=default&mobileredirect=true)
+[Product Backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/millakel_ad_helsinki_fi/EXi4j8V7nzRDk9hke33-PnQBdSgH0LGj_gx1z-O67_ME9g?e=ECd0pN)
 
-[Sprint Backlog](https://helsinkifi-my.sharepoint.com/:x:/r/personal/millakel_ad_helsinki_fi/_layouts/15/Doc.aspx?sourcedoc=%7B566544E6-71A8-496F-9718-003388685840%7D&file=Sprint%20backlog.xlsx&action=default&mobileredirect=true)
-
-
+[Sprint Backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/millakel_ad_helsinki_fi/EeZEZVaocW9JlxgAM4hoWEAB5jBttrr-e5zZI2D5XtpHEg?e=3urt0Z)
 
 [Qiskit homepage](https://qiskit.org/)
 
-## Dokumentation:
+## Documentation:
 
-{more tobe added while project is going on}
+{more to be added while project is going on}
 
   ## Definition of Done:
     - Code works as designed
@@ -29,7 +37,7 @@ Goal of the project is to create a working code based on the research of Arianne
     - The code has been tested with Black and Pylint
   
   ### User DoD:
-    - Code has is accepted with DOD
+    - Code has been accepted with DOD
     - Logs are updated
 
 ## How the project is executed by the group:
@@ -45,4 +53,4 @@ Group works in english.
 
 ### Implementing code:
 
-Group decided to work on seperate branches, and merging those with main after the code has been validated. In the beginning of the project, group decided there should be at least three members who has reviewed the pull request, but later decided to lower it into two. Also client was added to be able to see the requests as well, and be able to give comments on the code to make process go forward more easier.
+Group decided to work on separate branches, and merging those with main after the code has been validated. In the beginning of the project, group decided there should be at least three members who has reviewed the pull request, but later decided to lower it into two. Also client was added to be able to see the requests as well, and be able to give comments on the code to make process go forward more easier.

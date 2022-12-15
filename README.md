@@ -24,21 +24,8 @@ The client's research is focused on the efficient compilation methods of qubits 
 
 ## Documentation:
 
-{more to be added while project is going on}
+[DoD]()
 
-  ## Definition of Done:
-    - Code works as designed
-    - Tests go through
-    - Code test coverage at least 80%
-    - Pull request has been done and accepted, before merging
-    - Code has been validated
-    - Code tested with Tox
-    - The code is fomated in Black and Pylint standard
-    - The code has been tested with Black and Pylint
-  
-  ### User DoD:
-    - Code has been accepted with DOD
-    - Logs are updated
 
 ## How the project is executed by the group:
 

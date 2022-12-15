@@ -2,7 +2,7 @@
 
 ## About the project:
  
-The goal of the project is to create a transpiler for quantum circuits based on the research of Arianne Meijer-van de Griend. The goal of the project is to implement a client's Steiner Tree-based compilation method to the IBM's [Qiskit Library](https://github.com/Qiskit).
+The goal of the project was to create a transpiler for quantum circuits based on the research of Arianne Meijer-van de Griend. The goal of the project was to implement a client's Steiner Tree-based compilation method to the IBM's [Qiskit Library](https://github.com/Qiskit).
 
 ### PermRowColSynthesis Transpiler
 
@@ -35,7 +35,7 @@ Currently in use is SWAP-based methods, but PermRowCol uses a bridge template, w
 [User-DoD](https://github.com/Helsinki-Qubits/Ohtu-A2022-Transpilation_methods_for_quantum_computers/blob/main/Documentation/User-DoD.md)
 
 
-## How the project is executed by the group:
+## How the project was executed by the group:
 
 The project was executed by using scrum -methods. In such, the time was devided on sprints, where the time differs between from a week to two weeks, depending on the nature of the tasks, and the clients wishes; in the begining of the project the lenght of the sprints were one week, changing into two weeks, and shifting back to one in the end of the project. Each sprint started with client meeting where group presents the progress of the project to the client, and after discussing on upcoming tasks. Afterwrds group held the sprint review, and sprint planning for the next sprint.
 

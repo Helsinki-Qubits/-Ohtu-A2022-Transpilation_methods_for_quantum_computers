@@ -24,7 +24,9 @@ The client's research is focused on the efficient compilation methods of qubits 
 
 ## Documentation:
 
-[DoD]()
+[DoD](https://github.com/Helsinki-Qubits/Ohtu-A2022-Transpilation_methods_for_quantum_computers/blob/main/Documentation/DoD.md)
+
+[User-DoD](https://github.com/Helsinki-Qubits/Ohtu-A2022-Transpilation_methods_for_quantum_computers/blob/main/Documentation/User-DoD.md)
 
 
 ## How the project is executed by the group:

@@ -37,15 +37,15 @@ Currently in use is SWAP-based methods, but PermRowCol uses a bridge template, w
 
 ## How the project is executed by the group:
 
-The project is executed by using scrum -methods. In such, the time has been devided on sprints, where the time differs between from a week to two weeks, depending on the nature of the tasks, and the clients wishes. (In the begining, the duration of the sprints were one week, but changed to two later). The sprint is started with client meeting where group presents the progress of the project to the client, and after discussing on upcoming tasks, the group helds the sprint palnning, and sprint review.
+The project was executed by using scrum -methods. In such, the time was devided on sprints, where the time differs between from a week to two weeks, depending on the nature of the tasks, and the clients wishes; in the begining of the project the lenght of the sprints were one week, changing into two weeks, and shifting back to one in the end of the project. Each sprint started with client meeting where group presents the progress of the project to the client, and after discussing on upcoming tasks. Afterwrds group held the sprint review, and sprint planning for the next sprint.
 
-Group keeps from two to three daily meetings in a week.
+Group kept two to three daily meetings in a week, usually keeping a another "planning" meeting right after. In these, group discussed what they have achieved between the daily meetings, and if there were any identified blockers. With this, group got to seize the knowledge of each group member, and by working together got many difficult parts onwards.
 
-Group members haven't got much of an experience on operating projects with using scrum methods. 
+Group members haven't got much of an experience on operating projects with using scrum methods, but got usefull experience. 
 
-Group works in english.
+Group worked in english.
 
 
 ### Implementing code:
 
-Group decided to work on separate branches, and merging those with main after the code has been validated. In the beginning of the project, group decided there should be at least three members who has reviewed the pull request, but later decided to lower it into two. Also client was added to be able to see the requests as well, and be able to give comments on the code to make process go forward more easier.
+Group decided to work on one main separating those into smaller branches for each task, merging those with main after the code has been validated. In start of the project, group decided there should be at least three members who has reviewed the pull request, but later decided to lower it into two. Also client was added to be able to see the requests as well, and be able to give comments on the code to make process go forward more easier.

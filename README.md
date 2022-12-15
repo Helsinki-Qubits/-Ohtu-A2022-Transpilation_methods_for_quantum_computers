@@ -1,12 +1,16 @@
-# Ohtu Autum/2022 - Transpilation methods for quantum computers
+# Ohtu, Autum 2022 - Transpilation methods for quantum computers
 
 ## About the project:
  
-The goal of the project is to create a transpiler for quantum circuits based on the research of Arianne Meijer-van de Griend. The aim is to merge the finished project to IBM's [Qiskit Library](https://github.com/Qiskit).
+The goal of the project is to create a transpiler for quantum circuits based on the research of Arianne Meijer-van de Griend. The goal of the project is to implement a client's Steiner Tree-based compilation method to the IBM's [Qiskit Library](https://github.com/Qiskit).
 
 ### PermRowColSynthesis Transpiler
 
-The client's research is focused on the efficient compilation methods of qubits in quantum circuits. The algorithm PermRowCol that we implemented in this project reroutes CNOT gates in a quantum circuit.
+The client's research is focused on the efficient compilation methods of qubits in quantum circuits. The algorithm PermRowCol is designed to run a certain quantum circuit under those constraints, the qubits need to be re-allocated to adequate registers and multi-qubit operations need to be re-routed. In quantum computing, more there are gates, more there is a risk of producing inaccurate results.
+
+Currently in use is SWAP-based methods, but PermRowCol uses a bridge template, which results in fewer CNOTs, and thus reduces the risk of inaccuracies in quantum computing.
+
+
 
 #### Research paper
 
@@ -21,6 +25,8 @@ The client's research is focused on the efficient compilation methods of qubits 
 [Sprint Backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/millakel_ad_helsinki_fi/EeZEZVaocW9JlxgAM4hoWEAB5jBttrr-e5zZI2D5XtpHEg?e=3urt0Z)
 
 [Qiskit homepage](https://qiskit.org/)
+
+
 
 ## Documentation:
 
